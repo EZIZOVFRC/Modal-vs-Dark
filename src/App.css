@@ -1,0 +1,58 @@
+body{
+  margin: 0;
+  padding: 0;
+
+}
+div h1{
+  font-size: 64px;
+  margin-top: 15%;
+  margin-left: 30%;
+  text-shadow: 3px 3px 20px #ffffff,
+    -2px 1px 30px #ffffff;
+    font-family: "Bungee Outline", sans-serif;
+}
+button{
+  padding: 10px;
+  border-radius: 10px;
+}
+div{
+  width: 100%;
+  height: 100vh;
+}
+.black{
+  background-color: black;
+  color: gold;
+
+
+}
+.darker{
+  background-color: black;
+  color: gold;
+  border: 2px solid gold;
+}
+
+.nonedis{
+  display: none;
+}
+.block{
+  display: block;
+  display: flex;
+  flex-direction: column;
+}
+.mudal{
+  border-radius: 20px;
+  font-size: 24px;
+  padding: 20px;
+  width: 40%;
+  margin-top: 10%;
+  margin-left: 30%;
+  height: 100px;
+  box-shadow: 3px 3px 20px #ff4b4b,
+  -2px 1px 30px #ff3232;
+  display: flex;
+  flex-direction: column;
+}
+.mudal button{
+  margin-left: 90%;
+  width: 40px;
+}
